@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [React Redux Bootcamp course](https://www.udemy.com/user/emmanuel-tweneboah-2/)
+- 🔭My newly and current course [ChatGPT with MERN Stack Build SAAS Project with Stripe](https://www.udemy.com/course/chatgpt-mastery-build-saas-project-using-mern-with-stripe/?referralCode=82B08B376F4F8A502C1A)
 
-- 👨‍💻 All of my projects are available at [https://www.udemy.com/user/emmanuel-tweneboah-2/](https://www.udemy.com/user/emmanuel-tweneboah-2/)
+- 👨‍💻 All my courses [https://www.udemy.com/user/emmanuel-tweneboah-2/](https://www.udemy.com/user/emmanuel-tweneboah-2/)
 
-- 💬 Ask me about **React, Redux, Node js, Expressjs, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS**
+- 💬 Ask me about **React, Redux, Node js, Expressjs, Mongodb, mongoose, Javascript, React Native, TypeScript, MERN Stack, HTML/CSS**
 
 - 📫 How to reach me **e.tweneboah1@gmail.com**
 
