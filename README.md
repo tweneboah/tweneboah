@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Tweneboah</h1>
+<h1 align="center">Hi 👋, I'm Currently Building a Fundraising Platform</h1>
 <h3 align="center">Fullstack Web Developer, Instructor and Founder Masynctech Coding School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tweneboah&label=Profile%20views&color=0e75b6&style=flat" alt="tweneboah" /> </p>
