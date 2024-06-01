@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Tweneboah</h1>
-<h3 align="center">Fullstack Web Developer, Instructor and C.E.O of I-Novotek Academy Coding School</h3>
+<h3 align="center">Fullstack Web Developer, Instructor and Founder Masynctech Coding School</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tweneboah&label=Profile%20views&color=0e75b6&style=flat" alt="tweneboah" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 MERN Fullstack Web Development Course [MERN Fullstack Web Development Course]([https://www.udemy.com/course/chatgpt-mastery-build-saas-project-using-mern-with-stripe/?referralCode=82B08B376F4F8A502C1A](https://www.udemy.com/course/fullstack-web-development-course-projects-base/?referralCode=F8C808368D020D5794BD))
+- 🔭 MERN Fullstack Web Development Course [MERN Fullstack Web Development Course](https://www.udemy.com/course/chatgpt-mastery-build-saas-project-using-mern-with-stripe/?referralCode=82B08B376F4F8A502C1A](https://www.udemy.com/course/fullstack-web-development-course-projects-base/?referralCode=F8C808368D020D5794BD))
 
 - 👨‍💻 All my courses [https://www.udemy.com/user/emmanuel-tweneboah-2/](https://www.udemy.com/user/emmanuel-tweneboah-2/)
 
